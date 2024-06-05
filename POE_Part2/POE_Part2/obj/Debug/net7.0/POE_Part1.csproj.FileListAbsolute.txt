@@ -1,0 +1,15 @@
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/bin/Debug/net7.0/POE_Part1
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/bin/Debug/net7.0/POE_Part1.deps.json
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/bin/Debug/net7.0/POE_Part1.runtimeconfig.json
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/bin/Debug/net7.0/POE_Part1.dll
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/bin/Debug/net7.0/POE_Part1.pdb
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/POE_Part1.csproj.AssemblyReference.cache
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/POE_Part1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/POE_Part1.AssemblyInfoInputs.cache
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/POE_Part1.AssemblyInfo.cs
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/POE_Part1.csproj.CoreCompileInputs.cache
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/POE_Part1.dll
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/refint/POE_Part1.dll
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/POE_Part1.pdb
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/POE_Part1.genruntimeconfig.cache
+/Users/kamogelongcezu/Projects/POE_Part1/POE_Part1/obj/Debug/net7.0/ref/POE_Part1.dll
